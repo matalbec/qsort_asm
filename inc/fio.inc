@@ -1,0 +1,1 @@
+extern fprintf,fscanf
